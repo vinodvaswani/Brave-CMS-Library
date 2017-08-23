@@ -3,6 +3,7 @@
 Programmer : Shishir Raven
 Purpose : Class to create thumbnail at runtime for Bigger images
 How it works 
+
 a) Whenever we have to display thumbnail call a object as $a = new thumbnail('image.jpg','200',300,'images')
 	Parameter 1 - Image Name
 	Parameter 2 - Image width
